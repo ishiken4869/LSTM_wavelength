@@ -12,3 +12,5 @@
 
 * smiles文字列
 　URLはデータファイルのpathを表す。
+
+[LSTMで分子生成入門](https://qiita.com/maskot1977/items/6e68b50287d80dbd4461)
